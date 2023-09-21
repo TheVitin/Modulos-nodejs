@@ -1,0 +1,3 @@
+exports.inicial = function () {
+    return " ";
+  };
